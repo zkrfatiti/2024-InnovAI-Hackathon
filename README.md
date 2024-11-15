@@ -22,4 +22,4 @@ Join the Hackathon server on discord and meet the mentors to learn more about th
 * Obtain your MoroccoAI certificate of recognition
 
 # For more information
-[https://morocco.ai/events/conferences/MoroccoAI-Conference-2024/pages/hackathon.html]
+https://morocco.ai/events/conferences/MoroccoAI-Conference-2024/pages/hackathon.html
